@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Breno Barbosa
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Breno Barbosa de Freitas, tenho 18 anos e sou natural da Paraiba. Atualmente, estou cursando Ciências da Computação na EESAP Três Marias. Sou apaixonado por tecnologia e pretendo aprender cada vez mais.
 
 
